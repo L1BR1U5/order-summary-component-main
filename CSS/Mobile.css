@@ -1,0 +1,11 @@
+@media(max-width:375px){
+    .fundo{
+        width: 100%;
+        height: 100%;
+    }
+    .fundo img{
+        width: 100%;
+        height: 100%;
+    }
+    
+}
